@@ -51,6 +51,14 @@ h1 img {
     margin-left: 4px;
 }
 
+.promo {
+    background-color: #d9ef08; 
+    font-family: sans-serif; 
+    font-weight: bold; 
+    font-style: italic; 
+    color: #000;
+}
+
 form {
     display: flex;
     flex-direction: column;
